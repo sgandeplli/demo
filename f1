@@ -1,3 +1,6 @@
 first line
+<<<<<<< HEAD
 second line
 third line
+=======
+>>>>>>> parent of 6aa562e (second line: f1)
